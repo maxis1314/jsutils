@@ -1,0 +1,20 @@
+<html>
+
+<head>
+<title>错误 404</title>
+<meta name="robots" content="noindex">
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=gb_2312">
+</head>
+
+<body>
+
+<h2>HTTP 错误 404</h2>
+
+<p><strong>404 找不到</strong></p>
+
+<p>Web 服务器找不到您所请求的文件或脚本。请检查
+URL 以确保路径正确。</p>
+
+<p>如果问题依然存在，请与服务器的管理员联系。</p>
+</body>
+</html>
